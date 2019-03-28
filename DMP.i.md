@@ -50,7 +50,7 @@ title: <project/> Data Management Plan
 ## Summary 
 
 This deliverable presents the initial data management plan (DMP) for the
-starting community research infrastructure <project/> (grant no 731032). It is a living
+starting community research infrastructure <project/> (grant no 814425). It is a living
 document that will be updated over the course of the project, with the
 final plan to be delivered at the end of the project. We anticipate that
 at least two other versions of the plan will be developed, to accommodate
@@ -249,7 +249,7 @@ by TA Users as part of their access provision.
 
 #### Expectations
 
-The <project/> DoA describes the goal of this deliverable (due at Month 6):  
+The <project/> DoA describes the goal of this deliverable (due at Month 3):  
 
 *A specific strategy to provide open access to data will be developed according to the recommendations of the [Horizon2020 ORD Pilot](https://www.openaire.eu/opendatapilot). The strategy will include the development of initial and final FAIR DMPs (M6 and M48 respectively), which will outline and support implementation of procedures to ensure full access to data incorporated within <project/>.*
 
